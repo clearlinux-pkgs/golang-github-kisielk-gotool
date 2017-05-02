@@ -1,6 +1,6 @@
 Name     : golang-github-kisielk-gotool
 Version  : 94d5dba705240ba73ce5d65d83ce44adc749b440
-Release  : 1
+Release  : 2
 URL      : https://github.com/kisielk/gotool/archive/94d5dba705240ba73ce5d65d83ce44adc749b440.tar.gz
 Source0  : https://github.com/kisielk/gotool/archive/94d5dba705240ba73ce5d65d83ce44adc749b440.tar.gz
 Summary  : No detailed summary available
